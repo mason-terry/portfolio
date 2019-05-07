@@ -1,17 +1,12 @@
 <template>
   <div id="app">
-    <Main></Main>
+    <router-view></router-view>
   </div>
 </template>
 
 <script>
-import Main from './components/Main.vue'
-
 export default {
-  name: 'app',
-  components: {
-    Main
-  }
+  name: 'app'
 }
 </script>
 
@@ -22,6 +17,5 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
 }
 </style>
