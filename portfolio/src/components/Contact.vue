@@ -3,7 +3,7 @@
     <div class="">
       <form class="pa4 black-80">
         <div class="measure center">
-          <label class="fl f4 b db mb2">Name</label>
+          <!-- <label class="fl f4 b db mb2">Name</label>
           <input
             class="input-reset ba b--black-20 pa2 mb2 db w-100 br2"
             type="text"
@@ -27,7 +27,11 @@
           <button
             @click.prevent="sendMessage()"
             class="f4 dim br-pill pointer b ba ph3 pv2 mb2 dib near-black mt3"
-          >Send Message</button>
+          >Send Message</button> -->
+          <a
+            href="mailto:masonjterry@gmail.com"
+            class="no-underline b f3 f2-ns white"
+          >masonjterry@gmail.com</a>
         </div>
       </form>
     </div>

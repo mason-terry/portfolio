@@ -24,11 +24,11 @@
           href="/#contact"
           title="Contact"
         >Contact</a>
-        <a
+        <!-- <a
           class="link dim dark-gray f6 f5-ns dib"
           href="/blog"
           title="Blog"
-        >Blog</a>
+        >Blog</a> -->
       </div>
     </nav>
   </div>
