@@ -13,9 +13,9 @@
           >
         </div>
         <div class="fl w-100 w-50-ns pa2">
-          <p class="f5 f3-ns b white">Hey, I'm Mason. Thanks for stopping by.</p>
-          <p class="f5 f3-ns b white">I am a developer with a passion for using numbers and letters to turn something boring into something beautiful. Using my skills in HTML, CSS, JavaScript, and frameworks such as React and Vue, along with my strengths in problem-solving and design, I enjoy making web pages and apps that create effective solutions and are functional and appealing to the eye. My background as a musician has helped me learn the skills necessary, and I am always looking for new ways to grow and excel as a developer.</p>
-          <p class="f5 f3-ns b white">Take a look at some of my projects below. I hope to connect with you soon!</p>
+          <p class="f5 f3-ns white">Hey, I'm Mason. Thanks for stopping by.</p>
+          <p class="f5 f3-ns white">I am a software engineer with a passion for using numbers and letters to turn something boring into something beautiful. Using my skills in HTML, CSS, JavaScript, and frameworks such as React, Vue, and AngularJS, along with my strengths in problem-solving and design, I enjoy making web pages and apps that create effective solutions and are functional and appealing to the eye. My background as a musician has helped me learn the skills necessary, and I am always looking for new ways to grow and excel as an engineer.</p>
+          <p class="f5 f3-ns white">Take a look at some of my projects below. I hope to connect with you soon!</p>
         </div>
       </div>
     </div>

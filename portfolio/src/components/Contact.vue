@@ -30,7 +30,7 @@
           >Send Message</button> -->
           <a
             href="mailto:masonjterry@gmail.com"
-            class="no-underline b f3 f2-ns white"
+            class="no-underline f3 f2-ns white"
           >masonjterry@gmail.com</a>
         </div>
       </form>

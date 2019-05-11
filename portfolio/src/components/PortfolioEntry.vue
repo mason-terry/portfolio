@@ -17,7 +17,7 @@
         <a
           :href="url"
           target="_blank"
-          class="f6 link br-pill ph3 pv2 mb2 dib black b"
+          class="f6 grow no-underline br-pill ba bw1 ph3 pv2 mb2 dib black b"
         >View Page</a>
       </div>
     </article>

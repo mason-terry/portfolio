@@ -7,8 +7,8 @@
       <div class="mw9 center ph3-ns">
         <div class="cf ph2-ns">
           <h1 class='fl w-100 f-headline measure pa1'></h1>
-          <h1 class='fl w-100 avenir f1 f-headline-ns measure'>Hello there!</h1>
-          <h1 class='fl w-100 avenir f2 f-subheadline-ns measure'>Welcome to my portfolio.</h1>
+          <h1 class='fl w-100 f1 f-headline-ns fw9'>Hello there!</h1>
+          <h1 class='fl w-100 f3 f1-ns'>Welcome to my portfolio.</h1>
           <h1 class='fl w-100 f-headline-ns measure pa6'></h1>
         </div>
       </div>

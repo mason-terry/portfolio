@@ -3,7 +3,7 @@
     <div class='mw9 center ph3-ns'>
       <div class='cf ph2-ns'>
         <PortfolioEntry
-          name="Bill Direct"
+          name="Biller Direct"
           :imageUrl="billerDirectImage"
           role="Full-Stack Developer"
           url="https://biller-direct.q2open.io/"
@@ -22,7 +22,7 @@
           name="SXSetList (2018 SXSW Hackathon Winner)"
           :imageUrl="SXSetFinderImage"
           role="Front-End Developer"
-          url=""
+          url="https://sxsetfinder.herokuapp.com/"
           technology="React, Python, Mongo, AWS"
         >
         </PortfolioEntry>

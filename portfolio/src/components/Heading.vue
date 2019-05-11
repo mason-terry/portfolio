@@ -1,7 +1,7 @@
 <template>
   <div>
     <h1
-      class="f1 lh-title tracked fw9"
+      class="f1 lh-title"
       :id="id"
     >{{ title }}</h1>
     <!-- <a
