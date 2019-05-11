@@ -12,7 +12,6 @@
             <h1 class="f5 f4-ns mv0">{{ name }}</h1>
           </div>
         </div>
-        <!-- <p class="f6 lh-copy center mid-gray"><strong>My Role: </strong>{{ role }}</p> -->
         <p class="f6 lh-copy center mid-gray"><strong>Technologies: </strong>{{ technology }}</p>
         <a
           :href="url"
@@ -27,7 +26,7 @@
 <script>
 export default {
   name: 'PortfolioEntry',
-  props: ['name', 'imageUrl', 'role', 'technology', 'url']
+  props: ['name', 'imageUrl', 'technology', 'url']
 }
 </script>
 
