@@ -12,12 +12,12 @@
             <h1 class="f5 f4-ns mv0">{{ name }}</h1>
           </div>
         </div>
-        <p class="f6 lh-copy center mid-gray"><strong>My Role: </strong>{{ role }}</p>
+        <!-- <p class="f6 lh-copy center mid-gray"><strong>My Role: </strong>{{ role }}</p> -->
         <p class="f6 lh-copy center mid-gray"><strong>Technologies: </strong>{{ technology }}</p>
         <a
           :href="url"
           target="_blank"
-          class="f6 grow no-underline br-pill ba bw1 ph3 pv2 mb2 dib black b"
+          class="f6 link dim br-pill ba bw1 ph3 pv2 mb2 dib black b"
         >View Page</a>
       </div>
     </article>
