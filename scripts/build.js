@@ -1,3 +1,3 @@
-const args = ['build']
+const args = ['run build']
 const opts = { stdio: 'inherit', cwd: 'portfolio', shell: true }
-require('child_process').spawn('npm run', args, opts)
+require('child_process').spawn('npm', args, opts)

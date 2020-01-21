@@ -17,17 +17,17 @@
       </div>
       <div class='cf ph2-ns'>
         <PortfolioEntry
+          name="Coffee Power"
+          :imageUrl="CoffeePowerImage"
+          url="https://coffeepower.herokuapp.com/"
+          technology="Vue, Node, Mongo, Heroku"
+        >
+        </PortfolioEntry>
+        <PortfolioEntry
           name="SXSetList (2018 SXSW Hackathon Winner)"
           :imageUrl="SXSetFinderImage"
           url="https://sxsetfinder.herokuapp.com/"
           technology="React, Python, Mongo, Heroku"
-        >
-        </PortfolioEntry>
-        <PortfolioEntry
-          name="Errands Now"
-          :imageUrl="ErrandsNowImage"
-          url="https://errandsnow.herokuapp.com/"
-          technology="React, Node, Mongo, Heroku"
         ></PortfolioEntry>
       </div>
     </div>
@@ -39,7 +39,7 @@ import PortfolioEntry from './PortfolioEntry'
 import billerDirectImage from '../assets/biller-direct.png'
 import cardswapImage from '../assets/cardswap.png'
 import SXSetFinderImage from '../assets/sxSetFinder.png'
-import ErrandsNowImage from '../assets/errands-now.png'
+import CoffeePowerImage from '../assets/coffee-power.png'
 
 export default {
   name: 'Portfolio',
@@ -51,7 +51,7 @@ export default {
       billerDirectImage,
       cardswapImage,
       SXSetFinderImage,
-      ErrandsNowImage
+      CoffeePowerImage
     }
   }
 }
