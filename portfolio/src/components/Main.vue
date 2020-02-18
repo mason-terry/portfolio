@@ -21,7 +21,7 @@
       <div class="w-100 ph2 pv3 bg-black-70">
         <a
           class="link white-60 bg-transparent hover-white inline-flex items-center ma2 tc br2 pa2"
-          href="https://github.com/masonjterry"
+          href="https://github.com/mason-terry"
           title="GitHub"
         >
           <svg
